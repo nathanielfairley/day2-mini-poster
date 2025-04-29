@@ -5,6 +5,11 @@
   margin: 3px;
   background-color: yellow;
   height: 500px; /* optional */
+  box-shadow: 5px 5px gray;
+}
+
+.poster:hover {
+  background-color: white;
 }
 
 h1 {
