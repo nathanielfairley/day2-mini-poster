@@ -1,1 +1,10 @@
+.poster {
+  width: 200px;
+  padding: 4px;
+  border: 3px solid red;
+  margin: 3px;
+  background-color: yellow;
+  height: 800px; /* optional */
+}
+
 
