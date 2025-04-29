@@ -7,4 +7,21 @@
   height: 800px; /* optional */
 }
 
+h1 {
+  font-size: 20px;
+  text-align: center;
+  color: red;
+}
+
+h3 {
+  font-size: 16px;
+  text-align: center;
+  color: black;
+}
+
+p {
+  font-size: 12px;
+  text-align: center;
+  color: black;
+}
 
